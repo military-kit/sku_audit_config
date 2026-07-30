@@ -1,5 +1,3 @@
-# Downloaded 2026-07-30 10:35 from https://drive.google.com/file/d/1H6b1Qff0BPp_BIRMhaW9Jw4rKYge_cnJ/view?usp=sharing
-# Downloaded 2026-07-26 10:51 from https://drive.google.com/file/d/1H6b1Qff0BPp_BIRMhaW9Jw4rKYge_cnJ/view?usp=sharing
 # SKU Audit exclusion patterns
 #
 # One pattern per line. Any SKU matching a pattern here is skipped by BOTH
@@ -13,7 +11,7 @@
 
 # The master file is stored in the location below
 [Location]
-https://drive.google.com/file/d/1H6b1Qff0BPp_BIRMhaW9Jw4rKYge_cnJ/view?usp=sharing
+https://github.com/military-kit/sku_audit_config/blob/main/exclusions.txt
 
 # Exclude from all checks
 [Exclude from all]

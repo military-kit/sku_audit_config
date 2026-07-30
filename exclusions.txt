@@ -1,0 +1,45 @@
+# Downloaded 2026-07-30 10:35 from https://drive.google.com/file/d/1H6b1Qff0BPp_BIRMhaW9Jw4rKYge_cnJ/view?usp=sharing
+# Downloaded 2026-07-26 10:51 from https://drive.google.com/file/d/1H6b1Qff0BPp_BIRMhaW9Jw4rKYge_cnJ/view?usp=sharing
+# SKU Audit exclusion patterns
+#
+# One pattern per line. Any SKU matching a pattern here is skipped by BOTH
+# the Shopify and Storefeeder audits, for every check.
+#
+# Use * as a wildcard:
+#   MK-GIFTCARD*   matches any SKU starting with MK-GIFTCARD
+#   *-DELIVERY-*   matches any SKU containing -DELIVERY- anywhere
+# Lines starting with # are comments and are ignored. Matching ignores case.
+
+
+# The master file is stored in the location below
+[Location]
+https://drive.google.com/file/d/1H6b1Qff0BPp_BIRMhaW9Jw4rKYge_cnJ/view?usp=sharing
+
+# Exclude from all checks
+[Exclude from all]
+MK-GIFTCARD*
+*-DELIVERY-*
+XX-*
+
+# Only exclude from barcode checks
+[Exclude from barcode]
+BRT-*
+BSS-*
+BT-*
+CL-*
+CT-*
+CY-*
+EB-*
+EC-*
+FK-*BKIT*
+KB-TWIST-*
+MR-*
+OM-*
+PC-*
+RM-*
+SC-*
+SP-*
+TW-*
+
+
+[Exclude from Archived But Not Discontinued]

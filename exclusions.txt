@@ -40,4 +40,4 @@ SP-*
 TW-*
 
 
-[Exclude from Archived With Stock]
+[Exclude from Sfy - Archived With Stock]

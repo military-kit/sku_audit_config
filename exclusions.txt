@@ -1,45 +1,48 @@
+# Downloaded 2026-07-31 15:59 from https://github.com/military-kit/sku_audit_config/blob/main/exclusions.txt
 # Downloaded 2026-07-31 09:53 from https://github.com/military-kit/sku_audit_config/blob/main/exclusions.txt
-# Downloaded 2026-07-31 09:31 from https://github.com/military-kit/sku_audit_config/blob/main/exclusions.txt
-# SKU Audit exclusion patterns
-#
-# One pattern per line. Any SKU matching a pattern here is skipped by BOTH
-# the Shopify and Storefeeder audits, for every check.
-#
-# Use * as a wildcard:
-#   MK-GIFTCARD*   matches any SKU starting with MK-GIFTCARD
-#   *-DELIVERY-*   matches any SKU containing -DELIVERY- anywhere
-# Lines starting with # are comments and are ignored. Matching ignores case.
-
-
-# The master file is stored in the location below
-[Location]
-https://github.com/military-kit/sku_audit_config/blob/main/exclusions.txt
-
-# Exclude from all checks
-[Exclude from all]
-MK-GIFTCARD*
-*-DELIVERY-*
-XX-*
-
-# Only exclude from barcode checks
-[Exclude from barcode]
-BRT-*
-BSS-*
-BT-*
-CL-*
-CT-*
-CY-*
-EB-*
-EC-*
-FK-*BKIT*
-KB-TWIST-*
-MR-*
-OM-*
-PC-*
-RM-*
-SC-*
-SP-*
-TW-*
-
-
-[Exclude from Sfy - Archived With Stock]
+# Downloaded 2026-07-31 09:31 from https://github.com/military-kit/sku_audit_config/blob/main/exclusions.txt
+
+# SKU Audit exclusion patterns
+#
+# One pattern per line. Any SKU matching a pattern here is skipped by BOTH
+# the Shopify and Storefeeder audits, for every check.
+#
+# Use * as a wildcard:
+#   MK-GIFTCARD*   matches any SKU starting with MK-GIFTCARD
+#   *-DELIVERY-*   matches any SKU containing -DELIVERY- anywhere
+# Lines starting with # are comments and are ignored. Matching ignores case.
+
+
+# The master file is stored in the location below
+[Location]
+https://github.com/military-kit/sku_audit_config/blob/main/exclusions.txt
+
+# Exclude from all checks
+[Exclude from all]
+MK-GIFTCARD*
+*-DELIVERY-*
+XX-*
+
+# Only exclude from barcode checks
+[Exclude from barcode]
+BRT-*
+BSS-*
+BT-*
+CL-*
+CT-*
+CY-*
+EB-*
+EC-*
+FK-*BKIT*
+KB-TWIST-*
+MR-*
+OM-*
+PC-*
+RM-*
+SC-*
+SP-*
+TW-*
+
+
+[Exclude from Sfy - Archived With Stock]
+

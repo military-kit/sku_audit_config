@@ -1,3 +1,4 @@
+# Downloaded 2026-07-31 12:14 from https://github.com/military-kit/sku_audit_config/blob/main/exclusions.txt
 # Downloaded 2026-07-31 11:51 from https://github.com/military-kit/sku_audit_config/blob/main/exclusions.txt
 # Downloaded 2026-07-31 15:59 from https://github.com/military-kit/sku_audit_config/blob/main/exclusions.txt
 # Downloaded 2026-07-31 09:53 from https://github.com/military-kit/sku_audit_config/blob/main/exclusions.txt
@@ -54,6 +55,9 @@ SP-DUTCH-NORGIE-G2*
 MF-ACU-JKT-03383X-3XL*
 MT-SSHELL-GLV-12521349-MT-XXL*
 RR-NB-MAXI-SIDE-SP-973T-MX-TA*
+AT-B110-CMB-SMOCK-OPTI-S*
+SP-RAT-PACK-24H-MENU-VEG-9*
+
 
 
 

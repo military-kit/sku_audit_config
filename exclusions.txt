@@ -1,4 +1,4 @@
-# Downloaded 2026-07-31 09:29 from https://github.com/military-kit/sku_audit_config/blob/main/exclusions.txt
+# Downloaded 2026-07-31 09:31 from https://github.com/military-kit/sku_audit_config/blob/main/exclusions.txt
 # SKU Audit exclusion patterns
 #
 # One pattern per line. Any SKU matching a pattern here is skipped by BOTH

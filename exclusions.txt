@@ -52,6 +52,8 @@ RR-NB-MAXI-SIDE-SP-973T-MX-TA*
 AT-B110-CMB-SMOCK-OPTI-S*
 SP-RAT-PACK-24H-MENU-VEG-9*
 
-
+# Whole-group exclusion — if ANY row in a mismatched ID group has a
+# Listing SKU matching a pattern here, the entire group is exempt
+[Exclude from IP - Listings SKU Mismatch]
 
 

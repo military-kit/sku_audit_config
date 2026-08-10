@@ -43,10 +43,8 @@ AC-STABLE-BELT*
 AT-*
 WV-JC0020WCBV-20L-*
 WV-JC00BSSP*
-AB-BOOT-KIT-*
+AB-*-KIT*
 AB-*-BRUSH*
-AB-SUEDE-NUBUCK-KIT*
-
 
 
 [Exclude from Sfy - Archived With Stock]

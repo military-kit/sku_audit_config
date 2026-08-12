@@ -54,6 +54,9 @@ MT-SSHELL-GLV-12521349-MT-XXL*
 RR-NB-MAXI-SIDE-SP-973T-MX-TA*
 AT-B110-CMB-SMOCK-OPTI-S*
 SP-RAT-PACK-24H-MENU-VEG-9*
+KB-BUNG-1-12*
+KB-BUNG-1-18*
+KB-BUNG-1-30*
 
 # Whole-group exclusion — if ANY row in a mismatched ID group has a
 # Listing SKU matching a pattern here, the entire group is exempt

@@ -18,6 +18,7 @@ https://github.com/military-kit/sku_audit_config/blob/main/exclusions.txt
 MK-GIFTCARD*
 *-DELIVERY-*
 XX-*
+TEST-*
 
 # Only exclude from barcode checks
 [Exclude from barcode]

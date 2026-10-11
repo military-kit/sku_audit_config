@@ -19,6 +19,7 @@ MK-GIFTCARD*
 *-DELIVERY-*
 XX-*
 TEST-*
+MK-TEST-*
 
 # Only exclude from barcode checks
 [Exclude from barcode]
